@@ -5,7 +5,7 @@ module.exports.config = {
   name: "owner",
   version: "1.0.1",
   hasPermssion: 0,
-  credits: "SHAHADAT SAHU",
+  credits: "MASTAN MARUF",
   description: "Show Owner Info with styled box & random photo",
   commandCategory: "Information",
   usages: "owner",
@@ -41,10 +41,10 @@ module.exports.run = async function ({ api, event }) {
 `;
 
   const images = [
-    "https://i.imgur.com/8WBso8x.png",
-    "https://i.imgur.com/0VZu5eY.png",
-    "https://i.imgur.com/bkixgPK.jpeg",
-    "https://i.imgur.com/z6G6L4c.jpeg"
+    "https://i.imgur.com/aX88qis.jpeg",
+    "https://i.imgur.com/aX88qis.jpeg",
+    "https://i.imgur.com/aX88qis.jpeg",
+    "https://i.imgur.com/aX88qis.jpeg"
   ];
 
   const randomImg = images[Math.floor(Math.random() * images.length)];
