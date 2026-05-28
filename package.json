@@ -8,7 +8,7 @@
     "npm": ">=10.0.0 <13.0.0"
   },
   "scripts": {
-    "start": "node Sahu.js",
+    "start": "node Maruf.js",
     "login": "node login",
     "test": "node --trace-warnings --use_strict --async-stack-traces mirai"
   },
@@ -27,7 +27,7 @@
     "shahadat sahu",
     "shahadat chat bot"
   ],
-  "author": "SHAHADAT SAHU",
+  "author": "MARUF 7X",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues"
