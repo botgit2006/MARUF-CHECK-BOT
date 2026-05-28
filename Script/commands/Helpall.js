@@ -29,8 +29,8 @@ module.exports.run = async function ({ api, event }) {
  const finalText = `╔═══❖ 🌟 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐋𝐈𝐒𝐓 🌟 ❖═══╗
 ${allCommands.map(cmd => `║ ➔ ${cmd}`).join("\n")}
 ╠═════🔰 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎 🔰═════╣
-║ 🤖 𝐁𝐨𝐭: ─꯭─⃝‌‌Mastan Maruf bot
-║ 👑 𝐎𝐰𝐧𝐞𝐫: MASTAN MARUF
+║ 🤖 𝐁𝐨𝐭: ─꯭─⃝‌‌𝙼𝙰𝚁𝚄𝙵 𝙱𝙾𝚃𝚂
+║ 👑 𝐎𝐰𝐧𝐞𝐫: 𝙈𝘼𝙍𝙐𝙁 𝙭 𝘽𝙊𝙏𝙎
 ║ 📦 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬: ${allCommands.length} 
 ╚═══════════════════════╝`;
 
