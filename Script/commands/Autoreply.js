@@ -21,7 +21,7 @@ module.exports.handleEvent = async function ({ api, event }) {
   const msg = body.toLowerCase().trim();
 
   const responses = {
-    "miss you": "অরেক বেডারে Miss না করে xan মেয়ে হলে বস সাহু রে হাঙ্গা করো😶👻😘",
+    "miss you": "অরেক বেডারে Miss না করে xan মেয়ে হলে বস 𝙈𝘼𝙍𝙐𝙁 রে হাঙ্গা করো😶👻😘",
     "miss u too": "হুম আমি ও তোমাকে Miss করি... কিন্তু সাহু বস বেশি করে 😏💖",
     "kiss de": "কিস দিস না তোর মুখে দূর গন্ধ কয়দিন ধরে দাঁত ব্রাশ করিস নাই🤬",
     "👍": "সর এখান থেকে লাইকার আবাল..!🐸🤣👍⛏️",
@@ -29,23 +29,23 @@ module.exports.handleEvent = async function ({ api, event }) {
     "bc": "SAME TO YOU😊",
     "pro": "Khud k0o KYa LeGend SmJhTi Hai 😂",
     "good morning": "GOOD MORNING দাত ব্রাশ করে খেয়ে নেও😚",
-    "good night": "Sweet Dream babu… তবে আগে সাহু বস কে GN বলে নিও 😏💤",
+    "good night": "Sweet Dream babu… তবে আগে মারুফ বস কে GN বলে নিও 😏💤",
     "tor ball": "~ এখনো বাল উঠে নাই নাকি তোমার?? 🤖",
     "shahadat": "উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",
-    "owner": "‎[𝐎𝐖𝐍𝐄𝐑:☞ SHAHADAT SAHU ☜\nFacebook: https://www.facebook.com/profile.php?id=100044713412032\nWhatsApp: +8801882333052",
-    "admin": "He is SHAHADAT SAHU তাকে সবাই Admin SAHU হিসেবে চিনে😘☺️",
+    "owner": "‎[𝐎𝐖𝐍𝐄𝐑:☞ 𝙼𝙰𝚁𝚄𝙵 𝙱𝙾𝚃𝚂 ☜\nFacebook: https://www.facebook.com/profile.php?id=100044713412032\nWhatsApp: +8801882333052",
+    "admin": "He is 𝙼𝙰𝚁𝚄𝙵 𝙱𝙾𝚃𝚂 তাকে সবাই 𝙈𝘼𝙍𝙐𝙁 হিসেবে চিনে😘☺️",
     "babi": "এ তো হাছিনা হে মেরে দিলকি দারকান হে মেরি জান হে😍.",
     "chup": "তুই চুপ চুপ কর পাগল ছাগল",
     "Assalamualaikum": "Walaikumassalam❤️‍🩹",
     "fork": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT.git",
     "kiss me": "তুমি পঁচা তোমাকে কিস দিবো না 🤭",
-    "thanks": "এতো ধন্যবাদ না দিয়ে আমার বস সাহু রে তোর গার্লফ্রেন্ড টা দিয়ে দে..!🐸🥵",
+    "thanks": "এতো ধন্যবাদ না দিয়ে আমার বস মারুফ রে তোর গার্লফ্রেন্ড টা দিয়ে দে..!🐸🥵",
     "i love you": "মেয়ে হলে আমার বস সাহু এর ইনবক্সে এখুনি গুঁতা দিন🫢😻",
     "love you": "ভালোবাসা নামক আবলামী করতে চাইলে Boss সাহু এর ইনবক্সে গুতা দিন 😘",
     "by": "কিরে তুই কই যাস কোন মেয়ের সাথে চিপায় যাবি..!🌚🌶️",
     "ami shahadat": "হ্যা বস কেমন আছেন..?☺️",
     "bot er baccha": "আমার বাচ্চা তো তোমার গার্লফ্রেন্ডের পেটে..!!🌚⛏️",
-    "tor nam ki": "MY NAME IS ─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭💖",
+    "tor nam ki": "MY NAME IS ─꯭─⃝‌‌𝙼𝙰𝚁𝚄𝙵 𝙱𝙾𝚃𝚂💖",
     "pic de": "এন থেকে সর দুরে গিয়া মর😒",
     "cudi": "এত চোদা চুদি করস কেনো..!🥱🌝🌚",
     "bal": "রাগ করে না সোনা পাখি 🥰",
@@ -60,7 +60,7 @@ module.exports.handleEvent = async function ({ api, event }) {
     "tui ke": "আমি তোর বস সাহু এর ChatBot 😏",
     "umm": "এতো Umm কেনো জানু… কিছু বলবা? 😉",
     "hmm": "Hmmm কিসের হুমম জানু 🥵",
-    "love": "Love করলে সরাসরি সাহু বস কে বল জানু 😻🔥"
+    "love": "Love করলে সরাসরি মারুফ বস কে বল জানু 😻🔥"
   };
 
   if (!responses[msg]) return;
