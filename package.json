@@ -1,7 +1,7 @@
 {
-  "name": "shahadat-chat-bot",
+  "name": "maruf-chat-bot",
   "version": "2.0.0",
-  "description": "Made By SHAHADAT SAHU",
+  "description": "Made By MARUF KING",
   "main": "Main.js",
   "engines": {
     "node": "20.x",
