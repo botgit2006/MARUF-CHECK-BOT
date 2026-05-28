@@ -23,7 +23,7 @@
 
   <!-- Developed By -->
   <span style="font-size: 22px; font-weight: 700; color:#FF8A00;">
-    Developed By SHAHADAT SAHU
+    Developed By MARUF BOTS
   </span>
 
 </p>
@@ -158,8 +158,8 @@ ___
 
 ## 👨‍💻 ABOUT THE DEVELOPER
 
-**Name:** `SHAHADAT ISLAM`  
-**Nice Name:** `SA HU`  
+**Name:** `MARUF BOTS`  
+**Nice Name:** `MARUF`  
 **Profession:** `STUDENT & CHATBOT DEVELOPER`  
 **Location:** `KHAGRACHARI, BANGLADESH`
 
