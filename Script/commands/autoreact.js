@@ -10,7 +10,7 @@ module.exports.config = {
 
 module.exports.handleEvent = async ({ api, event }) => {
  const threadData = global.data.threadData.get(event.threadID) || {};
- if (threadData["🥰"] === false) return; // Auto-react off
+ if (threadData["🥰"] === false) return; // Auto-react on
 
  const emojis = ["🥰", "😗", "🍂", "💜", "☺️", "🖤", "🤗", "😇", "🌺", "🥹", "😻", "😘", "🫣", "😽", "😺", "👀", "❤️", "🧡", "💛", "💚", "💙", "💜", "🤎", "🤍", "💫", "💦", "🫶", "🫦", "👄", "🗣️", "💏", "👨‍👩‍👦‍👦", "👨‍👨‍👦", "😵", "🥵", "🥶", "🤨", "🤐", "🫡", "🤔"];
  const randomEmoji = emojis[Math.floor(Math.random() * emojis.length)];
