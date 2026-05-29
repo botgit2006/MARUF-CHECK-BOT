@@ -12,7 +12,7 @@
   "PASSWORD": "your password",
   "OTPKEY": "",
   "BOTNAME": "𝐌𝐀𝐑𝐔𝐅 𝐁𝐎𝐓𝐒",
-  "PREFIX": ".",
+  "PREFIX": "/",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
