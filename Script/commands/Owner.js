@@ -20,7 +20,7 @@ module.exports.run = async function ({ api, event }) {
 ║ ✨ 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 ✨
 ╠═════════════════════ ✿
 ║ 👑 𝗡𝗮𝗺𝗲 : 𝐌𝐀𝐑𝐔𝐅 𝐁𝐎𝐓𝐒
-║ 🧸 𝗡𝗶𝗰𝗸 𝗡𝗮𝗺𝗲 : no nickname 
+║ 🧸 𝗡𝗶𝗰𝗸 𝗡𝗮𝗺𝗲 : 𝐍𝐎 𝐍𝐈𝐂𝐊𝐍𝐀𝐌𝐄 
 ║ 🎂 𝗔𝗴𝗲 : 𝟭𝟴+
 ║ 💘 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻 : 𝗦𝗶𝗻𝗴𝗹𝗲
 ║ 🎓 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻 : 𝗦𝘁𝘂𝗱𝗲𝗻𝘁
@@ -30,21 +30,21 @@ module.exports.run = async function ({ api, event }) {
 ║ 🔗 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
 ╠═════════════════════ ✿
 ║ 📘 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 :
-║ nai
+║ 𝐍𝐀𝐈
 ║ 💬 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿 :
-║ tor ta dekh
+║ 𝐓𝐎𝐑 𝐓𝐀 𝐃𝐄𝐊𝐇
 ║ 📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 :
-║ ache kintu nai
+║ 𝐀𝐂𝐇𝐄 𝐊𝐈𝐍𝐓𝐔 𝐓𝐎𝐑𝐄 𝐃𝐈𝐁𝐎 𝐊𝐍
 ║ ✈️ 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 :
-║ Not available 
+║ 𝐍𝐎𝐓 𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 
 ╚═════════════════════ ✿
 `;
 
   const images = [
-    "https://i.imgur.com/aX88qis.jpeg",
-    "https://i.imgur.com/aX88qis.jpeg",
-    "https://i.imgur.com/aX88qis.jpeg",
-    "https://i.imgur.com/aX88qis.jpeg"
+    "https://i.imgur.com/5JXvUv0.jpeg",
+    "https://i.imgur.com/5JXvUv0.jpeg",
+    "https://i.imgur.com/5JXvUv0.jpeg",
+    "https://i.imgur.com/5JXvUv0.jpeg"
   ];
 
   const randomImg = images[Math.floor(Math.random() * images.length)];
